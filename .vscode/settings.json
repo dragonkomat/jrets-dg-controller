@@ -1,0 +1,16 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "stdio.h": "c",
+        "stddef.h": "c",
+        "stdlib.h": "c",
+        "gpio.h": "c",
+        "tusb.h": "c",
+        "tusb_common.h": "c",
+        "hid_device.h": "c",
+        "tusb_option.h": "c",
+        "usb_descriptors.h": "c",
+        "usb_main.h": "c",
+        "main.h": "c"
+    }
+}
